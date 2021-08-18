@@ -1,5 +1,6 @@
 ## Greetings
 
+<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadwell-clark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/>
@@ -17,7 +18,5 @@
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
-
-<img src="https://img.shields.io/badge/Figma-FFFF00?style=for-the-badge&logo=figma&logoColor=black" alt="Figma" /></a>
 
 <br/><br/>
