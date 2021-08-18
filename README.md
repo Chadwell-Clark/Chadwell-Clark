@@ -1,5 +1,6 @@
-<header align="center">
+<p align="center">
 <h1>Greetings Fellow Travelers </h1>
+</p>
 <br/><br/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadwell-clark)](https://github.com/anuraghazra/github-readme-stats)
