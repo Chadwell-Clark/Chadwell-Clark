@@ -5,7 +5,7 @@
 
 ![Chadwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadwell-clark&theme=monokai&show_icons=true)
 
-<!-- ![Chadwell's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chadwell-clark&layout=compact) -->
+![Chadwell's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chadwell-clark&layout=compact) 
 
 <br/><br/>
 
