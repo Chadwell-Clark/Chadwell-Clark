@@ -1,12 +1,15 @@
-<header align="center">
-<h1>Greetings Fellow Travelers </h1>
-<br/><br/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadwell-clark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/>
-
 <p align="center">
+<h1>Greetings Fellow Travelers </h1>
+</p>
+<br/><br/>
+
+![Chadwell's GitHub stats](https://github-readme-stats.vercel.app/api?username=chadwell-clark&theme=monokai&show_icons=true)
+
+<!-- ![Chadwell's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chadwell-clark&layout=compact) -->
+
+<br/><br/>
+
+<!-- <p align="center"> -->
 
 <img src="https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
