@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<!-- <p align="center"> -->
+<p align="start">
 
 <img src="https://img.shields.io/badge/c%23-006400.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 
