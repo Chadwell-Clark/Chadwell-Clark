@@ -1,5 +1,7 @@
 <p align="center">
 <h1>Greetings Fellow Travelers </h1>
+<a href="https://chadwell-clark.github.io">
+<img src="https://img.shields.io/badge/-Chad%5Bwell%5D%20Clark-lightblue.svg?style=for-the-badge&logo=c&logoColor=white" alt="Chadwell Clark" />
 </p>
 <br/><br/>
 
